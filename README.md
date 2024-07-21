@@ -37,3 +37,7 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+
+![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=kintaro8813&show_icons=true&theme=radical)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kintaro8813&count_private=true&theme=dracula">
+
