@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [JavaScript, Typescript, HTML, CSS, Java, CSharp],
+   technologies: {
+      frontEnd: {
+         js: ["Vue", "Angular"],
+         css: ["Materialize", "Bootstrap", "Material Design", "Tailwind"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "MySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
