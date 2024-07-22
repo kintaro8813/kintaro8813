@@ -22,13 +22,17 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["Vue", "Angular"],
-         css: ["Materialize", "Bootstrap", "Material Design", "Tailwind"]
+         css: ["Materialize", "Bootstrap", "Material Design", "Tailwind"],
+         php: ["Laravel", "CodeIgniter"]
       },
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
          csharp: ["Asp.net Core"],
          misc: ["Bash", "Selenium", "Cypress"]
+      },
+      webDesign: {
+          cms: ["WordPress", "Joomla"]
       },
       databases: ["MongoDB", "MySQL", "SQLServer"],
       mobile: ["Android", "IOS"]
